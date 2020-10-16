@@ -1,0 +1,1 @@
+EgtB from Mycobacterium thermoresistibile catalyzes O2-dependent sulfur-carbon bond formation between the side chains of Nα-trimethyl histidine and γ-glutamyl cysteine as a central step in ergothioneine biosynthesis. A single point mutation converts this enzyme into a γ-glutamyl cysteine dioxygenase with an efficiency that rivals naturally evolved thiol dioxygenases.

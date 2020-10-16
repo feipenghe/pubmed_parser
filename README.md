@@ -1,3 +1,8 @@
+# forked version update
+* pmid2abstract.py 
+
+
+
 # Pubmed Parser: A Python Parser for PubMed Open-Access XML Subset and MEDLINE XML Dataset
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/titipata/pubmed_parser/blob/master/LICENSE) [![DOI](https://joss.theoj.org/papers/10.21105/joss.01979/status.svg)](https://doi.org/10.21105/joss.01979)

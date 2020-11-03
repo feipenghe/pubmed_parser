@@ -1,1 +1,5 @@
 The adenylate cyclase activity of ram sperm increased on freeze-thawing and the enzyme was stable at 0 degrees C. Its activity was stimulated by Mn2+, Zn2+, Co2+, Mg2+ and Ca2+ in descending order of activity. The enzyme was insensitive to fluoride when Mn2+ concentration was in excess. Mn2+-stimulated enzyme activity was decreased by the simultaneous addition of Co2+, or Cd2+, or Ni2+, and particularly Cu2+. Sulfhydryl compounds (viz. dithiothreitol, glutathione, dithiocarbamate, 2-mercaptoethanol, ergothioneine and cysteine) and chelating agents (viz. D-penicillamine and 8-hydroxyquinoline) were effective, to varying degrees, in overcoming the inhibition by Cu2+. Ca2+ augmented the stimulatory effect of Mg2+, Co2+, Zn2+ and Mn2+ on enzyme activity.
+3270503
+Control of ram sperm adenylate cyclase by divalent cations.
+Australian journal of biological sciences
+1988

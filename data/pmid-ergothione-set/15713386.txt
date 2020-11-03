@@ -1,1 +1,5 @@
 Intracellular naturally occurring aromatic thiols such as ergothioneine and the ovothiols have been shown to play a variety of roles in cellular function. A detailed ab initio electronic structure analysis of these thiols is reported evaluating the thermodynamics of the reactions of these intracellular thiols with alkyl thiols, HO*, H2O2, ascorbate and their disulfides.
+15713386
+Ab initio studies of the properties of intracellular thiols ergothioneine and ovothiol.
+Bioorganic & medicinal chemistry letters
+2005

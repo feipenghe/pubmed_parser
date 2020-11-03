@@ -1,1 +1,5 @@
 As one of the most abundant elements on earth, sulfur is part of many small molecular metabolites and is key to their biological activities. Over the past few decades, some general strategies have been discovered for the incorporation of sulfur into natural products. In this review, we summarize recent efforts in elucidating the biosynthetic details for two sulfur-containing metabolites, ergothioneine and ovothiol. Their biosyntheses involve an unprecedented trans-sulfur strategy, a combination of a mononuclear non-heme iron enzyme-catalyzed oxidative C-S bond formation reaction and a PLP enzyme-mediated C-S lyase reaction.
+29589901
+Mini-Review: Ergothioneine and Ovothiol Biosyntheses, an Unprecedented Trans-Sulfur Strategy in Natural Product Biosynthesis.
+Biochemistry
+2019

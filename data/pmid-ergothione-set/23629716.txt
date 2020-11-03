@@ -1,1 +1,5 @@
 Ergothioneine (ERG) and mycothiol (MSH) are two low-molecular-weight thiols synthesized by mycobacteria. The role of MSH has been extensively investigated in mycobacteria; however, little is known about the role of ERG in mycobacterial physiology. In this study, quantification of ERG at various points in the growth cycle of Mycobacterium smegmatis revealed that a significant portion of ERG is found in the culture media, suggesting that it is actively secreted. A mutant of M. smegmatis lacking egtD (MSMEG_6247) was unable to synthesize ERG, confirming its role in ERG biosynthesis. Deletion of egtD from wild-type M. smegmatis and an MSH-deficient mutant did not affect their susceptibility to antibiotics tested in this study. The ERG- and MSH-deficient double mutant was significantly more sensitive to peroxide than either of the single mutants lacking either ERG or MSH, suggesting that both thiols play a role in protecting M. smegmatis against oxidative stress and that ERG is able to partly compensate for the loss of MSH.
+23629716
+Ergothioneine is a secreted antioxidant in Mycobacterium smegmatis.
+Antimicrobial agents and chemotherapy
+2014

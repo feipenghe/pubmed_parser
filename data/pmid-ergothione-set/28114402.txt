@@ -1,1 +1,5 @@
 L-Ergothioneine (EGT) is a naturally-occurring amino acid which is characterized by its antioxidant property; yet, the physiological role of EGT has yet to be established. We investigated the immune-enhancing properties of EGT, and found that it acts as a potentiator of toll-like receptor (TLR) signaling. When mouse bone marrow-derived macrophages (BMDMs) were pretreated with EGT, TLR signal-mediated cytokine production was augmented in BMDMs. The results were reproducible with TLR2, 3, 4 and 7 agonists. In particular, IL-6 and IL-12p40 were elevated further by pretreatment with EGT in BMDMs, suggesting the induction of M1 polarization. In co-culture assay with OT-II CD4+ T cells and splenic F4/80+ macrophages, EGT significantly induced Th17 skewing in CD4+ T cells. Thus, EGT is an immune modifier as well as a redox controller under TLR stimulation that induces M1 macrophages and a Th17 shift in inflammation.
+28114402
+The Anti-Oxidant Ergothioneine Augments the Immunomodulatory Function of TLR Agonists by Direct Action on Macrophages.
+PloS one
+2017

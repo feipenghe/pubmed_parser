@@ -1,1 +1,5 @@
 The antiarthritis drug D-penicillamine (D-PEN) catalyzes zinc(II) transfer from carboxypeptidase A to chelators such as thionein and EDTA at a rate constant up to 400-fold faster than the uncatalyzed release. Once D-PEN releases zinc(II) from enzyme stronger chelators can tightly bind zinc(II) leading to complete and essentially irreversible inhibition. D-PEN is the first drug to inhibit a zinc protease by catalyzing metal removal, and the name "catalytic chelation" is proposed for this mechanism.
+17918925
+Catalysis of zinc transfer by D-penicillamine to secondary chelators.
+Journal of medicinal chemistry
+2007

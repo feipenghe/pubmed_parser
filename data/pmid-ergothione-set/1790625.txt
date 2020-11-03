@@ -1,1 +1,5 @@
 A new method of clinical analysis based on 1H spin echo NMR spectroscopy is presented. It is capable of providing information on six metabolites within viable erythrocytes, directly and without any preparative procedures prior to analysis except for cell separation and washing. Erythrocytes from patients with rheumatoid arthritis and Graves' disease are compared with cells obtained from healthy volunteers. The NMR detectable species in the cytosol of the cells are glutathione, ergothioneine, choline, creatine, glycine, lactate and to a lesser extent alanine and valine. Significant differences are observed between the ergothioneine pools in the rheumatoid group (P less than 0.01) compared to the control group. The glutathione: di-glutathione ratio can be assessed from the ratio, g2 to g4, taken from different signals in the glutathione molecule. The total concentration of glutathione present is easily assessed qualitatively but is more difficult to quantitate.
+1790625
+Clinical analysis in intact erythrocytes using 1H spin echo NMR.
+Clinica chimica acta; international journal of clinical chemistry
+1991

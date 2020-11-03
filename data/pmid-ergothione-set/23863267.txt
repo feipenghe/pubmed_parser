@@ -1,1 +1,5 @@
 Ergothioneine and ovothiol A are sulfur-containing histidine derivatives produced by microorganisms including Mycobacterium tuberculosis, Trypanosoma cruzi or Erwinia amylovora and may also play important roles in human physiology. Based on our recent identification of thiohistidine biosynthetic enzymes from Mycobacterium smegmatis and Erwinia tasmaniensis we investigate several aspects of sulfur-based redox biochemistry. For example, we are characterizing the catalytic mechanism of two thiohistidine biosynthetic enzymes which afford O2-dependent sulfur insertion into the C(5)-H and C(2)-H bonds of the imidazolyl side chain of histidine.
+23863267
+Thiohistidine biosynthesis.
+Chimia
+2013

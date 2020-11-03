@@ -20,10 +20,20 @@ if __name__ == '__main__':
         count = 0
         for line in tqdm(in_f.readlines()):
             pub_dict = pp.parse_xml_web(line.strip(), save_xml=False)
+            print(pub_dict.keys())
+            exit()
             abstract = pub_dict["abstract"]
+            pmid = pub_dict["pmid"]
+            title = pub_dict["title"]
+            journal = pub_dict["journal"]
+            year = pub_dict["year"]
+            url = pub_dict["url"]
+            data_to_write = (abstract, pmid, title, journal, year, url)
             if len(pub_dict["abstract"]) >= 5:# some publication don't have abstract, here we filter out abstraction by string length
                 with open(os.path.join(fout_path, f"{pub_dict['pmid']}.txt" ), "w") as out_f:
-                    out_f.write(abstract)
+                    for data in data_to_write:
+                        out_f.write(data + "\n")
+
             else:
                 count += 1
                 print("missing abstract: ", count)

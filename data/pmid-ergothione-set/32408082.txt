@@ -1,1 +1,5 @@
 Ergothioneine is a sulfur-containing histidine derivative synthesized by many bacteria and most fungi but it also finds its way into human tissue by way of specific absorption from the diet. The precise role of ergothioneine is not yet known but there is growing evidence that it plays a role as an antioxidant protecting human cells from oxidative stress and pathogenic bacteria from host defenses. In this review we highlight recent advances in understanding the structural basis of ergothioneine biosynthesis. In addition to unusual carbon-sulfur bond forming enzymology this research has revealed that ergothioneine biosynthesis has emerged at least three times by independent molecular evolution.
+32408082
+Structural basis of ergothioneine biosynthesis.
+Current opinion in structural biology
+2020

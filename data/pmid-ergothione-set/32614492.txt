@@ -1,1 +1,5 @@
 Ergothioneine has emerged as a crucial cytoprotectant in the pathogenic lifestyle of Mycobacterium tuberculosis. Production of this antioxidant from primary metabolites may be regulated by phosphorylation of Thr213 in the active site of the methyltransferase EgtD. The structure of mycobacterial EgtD suggests that this post-translational modification would require a large-scale change in conformation to make the active-site residue accessible to a protein kinase. In this report, we show that, under in vitro conditions, EgtD is not a substrate of protein kinase PknD.
+32614492
+Reexamination of the Ergothioneine Biosynthetic Methyltransferase EgtD from Mycobacterium tuberculosis as a Protein Kinase Substrate.
+Chembiochem : a European journal of chemical biology
+2020

@@ -1,1 +1,5 @@
 Ergothioneine is an emerging component of the redox homeostasis system in human cells and in microbial pathogens, such as Mycobacterium tuberculosis or Burkholderia pseudomallei. Synthesis of stable isotope labelled ergothioneine derivatives may provide important tools for deciphering the distribution, function and metabolism of this compound in vivo. We describe a general protocol for the production of ergothioneine isotopologues with programmable 2H, 15N 13C, 34S and 33S isotope labelling patterns. This enzyme-based approach makes efficient use of commercial isotope reagents and is also directly applicable for the synthesis of radio-isotopologues.
+32996678
+In vitro production of ergothioneine isotopologues.
+Angewandte Chemie (International ed. in English)
+2020

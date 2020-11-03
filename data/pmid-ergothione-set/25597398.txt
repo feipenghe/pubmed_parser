@@ -1,1 +1,5 @@
 The non-heme iron enzyme EgtB catalyzes O2 -dependent C-S bond formation between γ-glutamyl cysteine and N-α-trimethyl histidine as the central step in ergothioneine biosynthesis. Both, the catalytic activity and the architecture of EgtB are distinct from known sulfur transferases or thiol dioxygenases. The crystal structure of EgtB from Mycobacterium thermoresistibile in complex with γ-glutamyl cysteine and N-α-trimethyl histidine reveals that the two substrates and three histidine residues serve as ligands in an octahedral iron binding site. This active site geometry is consistent with a catalytic mechanism in which C-S bond formation is initiated by an iron(III)-complexed thiyl radical attacking the imidazole ring of N-α-trimethyl histidine.
+25597398
+Structure of the sulfoxide synthase EgtB from the ergothioneine biosynthetic pathway.
+Angewandte Chemie (International ed. in English)
+2015

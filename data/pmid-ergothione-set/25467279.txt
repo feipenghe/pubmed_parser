@@ -1,1 +1,5 @@
 Ergothioneine and mycothiol are low molecular mass redox protective thiols present in actinomycetes, in particular mycobacteria. We report the improved chemical synthesis of ergothioneine (ESH) and biosynthetic pathway intermediates using either histidine or ESH as the starting material. The detailed mechanism of ESH biosynthesis has not yet been completely elucidated and substrates for enzymes in the pathway will provide valuable tools to aid this study. Particularly interesting is the PLP dependent β-lyase, EgtE, of mycobacteria, having the capability of cleaving the substrate, S-(β-amino-β-carboxyethyl)ergothioneine sulfoxide, to provide ESH. A synthetic route toward ESH pathway intermediates also allowed the preparation of stable isotopically labelled hercynine-d3 which was enzymatically transformed into ESH-d3. The deuterated ergothioneine biosynthetic pathway metabolites are valuable tools for future studies.
+25467279
+Improved synthesis of the super antioxidant, ergothioneine, and its biosynthetic pathway intermediates.
+Organic & biomolecular chemistry
+2015

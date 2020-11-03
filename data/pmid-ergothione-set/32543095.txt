@@ -1,1 +1,5 @@
 Cupin-type cysteine dioxygenases (CDOs) are non-heme iron enzymes that occur in animals, plants, bacteria and in filamentous fungi. In this report, we show that agaricomycetes contain an entirely unrelated type of CDO that emerged by convergent evolution from enzymes involved in the biosynthesis of ergothioneine. The activity of this CDO type is dependent on the ergothioneine precursor N-α-trimethylhistidine. The metabolic link between ergothioneine production and cysteine oxidation suggests that the two processes might be part of the same chemical response in fungi, for example against oxidative stress.
+32543095
+Convergent Evolution of Fungal Cysteine Dioxygenases.
+Chembiochem : a European journal of chemical biology
+2020

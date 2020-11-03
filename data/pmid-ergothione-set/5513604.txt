@@ -1,1 +1,5 @@
 The behavior of granule cells in mature cerebellar cultures derived from newborn mice was studied by light and electron microscopy. Many granule cells remained in the explants as an external granular layer. These cells were differentiated, as evidenced by formation of bundles of parallel fibers and by development of synapses between granule cell axons and Purkinje cell branchlet spines, and between Golgi cell axons and granule cell dendrites. Although the over-all architecture of the cerebellar explants after 18-33 days in vitro was similar to that of the newborn mouse, the evident differentiation of the granule cells suggested that interneuronal relationships resemble those of the mature cerebellum in vivo.
+5513604
+Cerebellar granule cells in vitro. A light and electron microscope study.
+The Journal of cell biology
+1970

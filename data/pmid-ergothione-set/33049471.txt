@@ -1,1 +1,5 @@
 Intense SERS spectra of the natural amino acid ergothioneine (ERG) are obtained on different substrates upon 785 nm excitation. A characteristic spectral pattern with a distinctive intense band at 480-486 cm-1 is conserved when substrates of different type and characteristics are used. On the basis of available literature, we propose ERG is adsorbed on the metal surface in its thiolate form via the sulphur and heterocyclic nitrogen. The same spectral pattern is obtained in SERS spectra of filtered erythrocytes lysates, confirming the presence of ERG in those cells. The occurrence of ERG bands in label-free SERS spectra of serum and plasma reported in literature by different authors is discussed, highlighting the importance of this amino acid for the interpretation of SERS spectra of these biofluids.
+33049471
+Ergothioneine, a dietary amino acid with a high relevance for the interpretation of label-free surface enhanced Raman scattering (SERS) spectra of many biological samples.
+Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy
+2020

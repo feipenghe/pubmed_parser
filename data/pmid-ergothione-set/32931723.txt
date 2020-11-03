@@ -1,1 +1,5 @@
 Since ancient days, human fasting has been performed for religious or political reasons. More recently, fasting has been employed as an effective therapy for weight reduction by obese people, and numerous studies have investigated the physiology of fasting by obese subjects. Well-established fasting markers (butyrates, BCAAs and carnitines) were considered essential energy substitutes after glycogen storage depletion. However, a recently developed metabolomic approach has unravelled previously unappreciated aspects of fasting. Surprisingly, one-third (44) of 120 metabolites investigated increase during 58 h of fasting, including antioxidative metabolites (carnosine, ophthalmic acid, ergothioneine and urates) and metabolites of entire pathways, such as the pentose phosphate pathway. Signalling metabolites (3-hydroxybutyrate and 2-oxoglutarate) and purines/pyrimidines may also serve as transcriptional modulators. Thus, prolonged fasting activates both global catabolism and anabolism, reprogramming metabolic homeostasis.
+32931723
+Metabolomics of human fasting: new insights about old questions.
+Open biology
+2020

@@ -1,1 +1,5 @@
 Myeloperoxidase (MPO)-generated halogenating molecules, such as hypochlorous acid and hypobromous acid (HOBr), in inflammatory regions are postulated to contribute to disease progression. In this study, we showed that ergothioneine (EGT), derived from an edible mushroom, inhibited MPO activity as well as the formation of 8-bromo-2'-deoxyguanosine in vitro. The HOBr scavenging effect of EGT is higher than those of ascorbic acid and glutathione. We initially observed that the administration of Coprinus comatus, an edible mushroom containing a high amount of EGT, inhibited the UV-B-induced inflammatory responses and DNA halogenation, suggesting that EGT is a promising anti-inflammatory agent from mushrooms.
+26338495
+A mushroom-derived amino acid, ergothioneine, is a potential inhibitor of inflammation-related DNA halogenation.
+Bioscience, biotechnology, and biochemistry
+2016

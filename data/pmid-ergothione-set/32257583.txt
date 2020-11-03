@@ -3,3 +3,7 @@ Ergothioneine is a thiohistidine derivative with potential benefits on many agin
                          ) from Candidatus Chloracidobacterium thermophilum. EgtB 
                          has both EgtB- and Egt1-type of activities. Guided by the structural information, we conducted Rosetta Enzyme Design calculations, and we biochemically demonstrated that EgtB 
                          can be engineered more toward Egt1-type of activity. This study provides information regarding the factors governing the substrate selectivity in Egt1- and EgtB-catalysis and lays the groundwork for future sulfoxide synthase engineering toward the development of an effective ergothioneine process through a synthetic biology approach.
+32257583
+Crystal Structure of the Ergothioneine Sulfoxide Synthase from 
+ACS catalysis
+2020

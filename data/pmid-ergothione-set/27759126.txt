@@ -1,1 +1,5 @@
 The discovery of a non-enzymatic oxidative introduction of sulfur to the 5-position of histidine is reported, by activation with bromine or NBS followed by reaction with thioacetic acid forming novel 5-acetylsulfanyl-histidine. Complementing the previously developed regioselective oxidative S-introduction to the 2-position of histidine by reaction with cysteine, this surprising finding provides straightforward access in multi-gram quantities to naturally occurring 5-sulfanyl-histidine and its N-methylated analogues, including a hitherto unknown regioisomer of l-ergothioneine.
+27759126
+Short protecting-group-free synthesis of 5-acetylsulfanyl-histidines in water: novel precursors of 5-sulfanyl-histidine and its analogues.
+Organic & biomolecular chemistry
+2018

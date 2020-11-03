@@ -1,1 +1,5 @@
 A new nanaomycin analog, nanaomycin K, was isolated from a cultured broth of actinomycete strain "Streptomyces rosa subsp. notoensis" OS-3966. Nuclear magnetic resonance (NMR) analyses revealed that the planar structure of nanaomycin K had an ergothioneine moiety. To determine the absolute configuration, nanaomycin K was semisynthesized using standards of nanaomycin E and l-ergothioneine. The natural and semisynthetic nanaomycin K were identified as the same compounds based on retention time, mass spectrometry, 1H NMR, and optical rotation data. Nanaomycin K showed cytotoxicity against Madin-Darby canine kidney (MDCK) cells undergoing transforming growth factor (TGF) β1-induced epithelial-mesenchymal transition.
+31582334
+Nanaomycin K, a new epithelial-mesenchymal transition inhibitor produced by the actinomycete "Streptomyces rosa subsp. notoensis" OS-3966.
+Journal of bioscience and bioengineering
+2020

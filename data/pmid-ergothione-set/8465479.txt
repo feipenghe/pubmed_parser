@@ -1,1 +1,5 @@
 The regulation of prostaglandin (PG) synthesis was characterized in microsomes of bovine bladder epithelium. Coenzyme A (CoA) and its metabolite cysteamine drastically decreased total PG synthesis. Furthermore, CoA inhibited solubilized cyclooxygenase which was precipitated by anti-cyclooxygenase antibody. Reduced glutathione (GSH) slightly increased total PG production and changed the pattern of PG synthesis. Other thiols, cysteine and ergothioneine, did not change total PG production. None of the thiols stimulated the incorporation of arachidonic acid into the phospholipid fraction. These findings suggest that CoA may directly regulate cyclooxygenase activity and GSH may subsequently change the pattern of PG production in bovine bladder epithelium.
+8465479
+Effects of thiols on prostaglandin synthesis in bovine bladder epithelium.
+Urologia internationalis
+1993

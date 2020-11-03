@@ -1,1 +1,5 @@
 Sulfur incorporation in the biosynthesis of ergothioneine, a histidine thiol derivative, differs from other well-characterized transsulfurations. A combination of a mononuclear non-heme iron enzyme-catalyzed oxidative C-S bond formation and a subsequent pyridoxal 5'-phosphate (PLP)-mediated C-S lyase reaction leads to the net transfer of a sulfur atom from a cysteine to a histidine. In this study, we structurally and mechanistically characterized a PLP-dependent C-S lyase Egt2, which mediates the sulfoxide C-S bond cleavage in ergothioneine biosynthesis. A cation-π interaction between substrate and enzyme accounts for Egt2's preference of sulfoxide over thioether as a substrate. Using mutagenesis and structural biology, we captured three distinct states of the Egt2 C-S lyase reaction cycle, including a labile sulfenic intermediate captured in Egt2 crystals. Chemical trapping and high-resolution mass spectrometry were used to confirm the involvement of the sulfenic acid intermediate in Egt2 catalysis.
+29503207
+Snapshots of C-S Cleavage in Egt2 Reveals Substrate Specificity and Reaction Mechanism.
+Cell chemical biology
+2019

@@ -1,1 +1,5 @@
 Biosynthesis of N-α-trimethyl-2-thiohistidine (ergothioneine) is a frequent trait in cyanobacteria. This sulfur compound may provide essential relief from oxidative stress related to oxygenic photosynthesis. The central steps in ergothioneine biosynthesis are catalyzed by a histidine methyltransferase and an iron-dependent sulfoxide synthase. In this report, we present evidence that some cyanobacteria recruited and adapted a sulfoxide synthase from a different biosynthetic pathway to make ergothioneine. The discovery of a second origin of ergothioneine production underscores the physiological importance of this metabolite and highlights the evolutionary malleability of the thiohistidine biosynthetic machinery.
+28862368
+Convergent Evolution of Ergothioneine Biosynthesis in Cyanobacteria.
+Chembiochem : a European journal of chemical biology
+2017
